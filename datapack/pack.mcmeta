@@ -1,7 +1,7 @@
 {
 	"pack": {
 		"description": "Allows the Infinity enchantment to apply to all arrows and crossbows.",
-		"pack_format": 57,
-		"supported_formats": [57]
+		"pack_format": 61,
+		"supported_formats": [61]
 	}
 }
