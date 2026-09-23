@@ -11,7 +11,7 @@
 					"value": 0.0
 				},
 				"requirements": {
-					"condition": "minecraft:match_tool",
+					"type": "minecraft:match_tool",
 					"predicate": {
 						"items": "#minecraft:arrows"
 					}
@@ -29,9 +29,7 @@
 		"base": 20,
 		"per_level_above_first": 0
 	},
-	"slots": [
-		"mainhand"
-	],
+	"slots": ["mainhand"],
 	"supported_items": "#overpoweredinfinity:enchantable/arrow_weapon",
 	"weight": 1
 }
